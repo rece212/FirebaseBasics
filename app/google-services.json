@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "496177253110",
+    "firebase_url": "https://fir-e384b.firebaseio.com",
+    "project_id": "fir-e384b",
+    "storage_bucket": "fir-e384b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496177253110:android:9efe7174d3fd620fdafad7",
+        "android_client_info": {
+          "package_name": "com.example.firebasebasics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496177253110-1itu91dcdkn8spa3ah322v3ro0bn5sef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNKe0fZkbzOXnf795TYRWdA6_m5QJt6-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496177253110-1itu91dcdkn8spa3ah322v3ro0bn5sef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496177253110:android:702dacd2ac41844b",
+        "android_client_info": {
+          "package_name": "com.reece.loginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496177253110-m4g8veaus4edmr5j5kp4qfmvl538a648.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reece.loginfirebase",
+            "certificate_hash": "5648d0a559b5b9098034c7c6aab8696c5e057ca4"
+          }
+        },
+        {
+          "client_id": "496177253110-1itu91dcdkn8spa3ah322v3ro0bn5sef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNKe0fZkbzOXnf795TYRWdA6_m5QJt6-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496177253110-1itu91dcdkn8spa3ah322v3ro0bn5sef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
